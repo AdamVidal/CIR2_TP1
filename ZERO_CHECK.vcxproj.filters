@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Administrateur\source\repos\CIR2 TP 1\CIR2 TP 1\build\CMakeFiles\b0700b8a1d0e7779426002c896c917a3\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{3309A95C-D943-3A88-8FB9-2E5297237279}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
